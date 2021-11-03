@@ -17,7 +17,5 @@
 - Sort books with category .
 - Add Comment to book .
 - Display every single category in single page
--
-
 
 
